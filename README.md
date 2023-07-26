@@ -1,4 +1,4 @@
-# helia-starmaps
+# helia-starmap
 
 This repository is a mirror of [Helia's official roadmap](https://github.com/ipfs/helia/blob/main/ROADMAP.md#%EF%B8%8F-milestones).
 
